@@ -7,7 +7,7 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/superior_fleur.mk \
     $(LOCAL_DIR)/evolution_fleur.mk \
-    $(LOCAL_DIR)/aosp_fleur.mk
+    $(LOCAL_DIR)/aosp_fleur.mk \
     $(LOCAL_DIR)/cipher_fleur.mk
 
 COMMON_LUNCH_CHOICES := \
