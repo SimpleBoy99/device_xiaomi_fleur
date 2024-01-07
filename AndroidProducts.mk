@@ -15,3 +15,6 @@ COMMON_LUNCH_CHOICES := \
     evolution_fleur-user \
     evolution_fleur-userdebug \
     evolution_fleur-eng
+arrow_fleur-eng \
+arrow_fleur-user \
+arrow_fleur-userdebug
