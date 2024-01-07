@@ -8,6 +8,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/superior_fleur.mk \
     $(LOCAL_DIR)/evolution_fleur.mk \
     $(LOCAL_DIR)/aosp_fleur.mk
+    $(LOCAL_DIR)/cipher_fleur.mk
 
 COMMON_LUNCH_CHOICES := \
     superior_fleur-user \
@@ -19,3 +20,6 @@ COMMON_LUNCH_CHOICES := \
     aosp_fleur-eng \
     aosp_fleur-user \
     aosp_fleur-userdebug 
+    cipher_fleur-eng \
+    cipher_fleur-user \
+    cipher_fleur-userdebug
