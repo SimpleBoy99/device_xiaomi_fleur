@@ -3,7 +3,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit some common arrow stuff
-$(call inherit-product, vendor/evolution/config/common.mk)
+$(call inherit-product, vendor/evolutin/config/common.mk)
 
 # Inherit from fleur device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
