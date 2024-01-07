@@ -19,7 +19,7 @@ COMMON_LUNCH_CHOICES := \
     evolution_fleur-eng \
     aosp_fleur-eng \
     aosp_fleur-user \
-    aosp_fleur-userdebug 
+    aosp_fleur-userdebug \
     cipher_fleur-eng \
     cipher_fleur-user \
     cipher_fleur-userdebug
